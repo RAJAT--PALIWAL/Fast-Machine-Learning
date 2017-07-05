@@ -6,6 +6,8 @@ Syllabus of Machine Learning to be covered: https://en.wikipedia.org/wiki/Outlin
 
 Dimensionality Reduction: https://elitedatascience.com/dimensionality-reduction-algorithms
 
+t-SNE: http://distill.pub/2016/misread-tsne/
+
 Machine Learning Algorithms:
 
 Support Vector Machine:
