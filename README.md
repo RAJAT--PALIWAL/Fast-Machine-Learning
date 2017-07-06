@@ -21,3 +21,6 @@ MIT OpenCourseware on Support Vector Machine
 What are Kernels? https://www.quora.com/What-are-Kernels-in-Machine-Learning-and-SVM
 
 Scikit-Learn Package
+
+Model Evaluation Metrics: https://www.kaggle.com/wiki/Metrics
+
