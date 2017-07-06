@@ -15,7 +15,7 @@ t-SNE:
 
 [2] Machine Learning Algorithms:
 
-  [A] Support Vector Machine:
+[A] Support Vector Machine:
     MIT OpenCourseware on Support Vector Machine
 
     What are Kernels? https://www.quora.com/What-are-Kernels-in-Machine-Learning-and-SVM
