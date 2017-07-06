@@ -6,7 +6,12 @@ Syllabus of Machine Learning to be covered: https://en.wikipedia.org/wiki/Outlin
 
 Dimensionality Reduction: https://elitedatascience.com/dimensionality-reduction-algorithms
 
-t-SNE: http://distill.pub/2016/misread-tsne/
+t-SNE:
+
+[1] http://distill.pub/2016/misread-tsne/
+
+[2]https://www.analyticsvidhya.com/blog/2017/01/t-sne-implementation-r-python/
+
 
 Machine Learning Algorithms:
 
